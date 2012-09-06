@@ -1,4 +1,5 @@
-cns3060-glpeterson
-==================
+Gary Landon Peterson
+====================
 
-This is the private repository for glpeterson for 3060
+CS-3060-601
+glpeterson@gmail.com
